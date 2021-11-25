@@ -1,0 +1,2 @@
+6f0bbcf559a3eab1c5594062d587ccec4b4bade2@evmos-seed.artifact-staking.io:26656
+faa31510d9280e74e7f2e767a62023bd5c896c27@evmos-testnet.mercury-nodes.net:29447
